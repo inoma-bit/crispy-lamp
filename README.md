@@ -1,2 +1,2 @@
 # crispy-lamp
-whatever
+whateever
